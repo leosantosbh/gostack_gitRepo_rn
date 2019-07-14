@@ -2,8 +2,12 @@
   
   
   
-  <h6> Executar:
+  <h6> Screenshot </h6>
   
-  yarn install
+  <img src="/src/config/Screenshot_20190714-082452.png" width="300">
   
-  react-native (run-android ou run-ios)
+  <img src="/src/config/Screenshot_20190714-082459.png" width="300">
+  
+  <img src="/src/config/Screenshot_20190714-082516.png" width="300">
+  
+  
